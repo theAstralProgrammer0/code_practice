@@ -1,4 +1,4 @@
-# code_practice
-This is where I practice coding
-Mostly Javascript code practice on here 
+# code_practice \n
+This is where I practice coding \n
+Mostly Javascript code practice is here \n 
 Other languages are also welcome
